@@ -12,15 +12,30 @@
 
 	<div class="main_wrapper">
 
-		<div>This is a header!</div>
+		<div class="header_wrapper">
 
-		<div>This is a menubar</div>
+			<img id="logo" src="images/logo.gif" />
+			<img id="banner"src="images/ad_banner.gif" />
 
-		<div>This is sidebar</div>
+		</div>
 
-		<div>This is content area</div>
+		<div class="menubar">
 
-		<div>This is the footer</div>
+		This is menu bar
+
+		</div>
+
+
+
+		<div class="content_wrapper">
+
+		        <div id="sidebar">This is sidebar</div>
+
+			<div id="content_area">This is content area</div>
+
+		</div>
+
+		<div id="footer">This is the footer</div>
 
 
 	</div>
