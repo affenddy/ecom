@@ -58,6 +58,7 @@ color:white;
 padding:0;
 margin:0;
 line-height:40px;
+float:left;
 }
 
 #menu li {
@@ -68,9 +69,9 @@ display:inline;
 #menu a {
 text-decoration:none;
 color:white;
-padding:8px;
-margin:5px;
-font-size:18px;
+padding:5px;
+margin:6px;
+font-size:12px;
 font-family:COMIC SANS MS;
 }
 
@@ -78,6 +79,12 @@ font-family:COMIC SANS MS;
 color:orange;
 font-weight:bolder;
 text-decoration:underline;
+}
+
+#form {
+float:right;
+padding-right:8px;
+line-height:50px;
 }
 
 .content_wrapper {
