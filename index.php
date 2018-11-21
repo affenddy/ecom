@@ -10,6 +10,8 @@
 
 <body>
 
+	<!--Main Container  starts here-->
+
 	<div class="main_wrapper">
 
 		<div class="header_wrapper">
@@ -21,7 +23,16 @@
 
 		<div class="menubar">
 
-		This is menu bar
+			<ul id="menu">
+				<li><a href="#">Home</li>
+				<li><a href="#">All Products</li>
+				<li><a href="#">My Account</li>
+				<li><a href="#">Sign Up</li>
+				<li><a href="#">Shopping Cart</li>
+				<li><a href="#">Contact Us</li>
+
+			</ul>
+
 
 		</div>
 
@@ -39,6 +50,8 @@
 
 
 	</div>
+
+	<!--Main Container ends here-->
 
 
 </body	
